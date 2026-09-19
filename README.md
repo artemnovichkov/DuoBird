@@ -16,9 +16,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="MIT License"></a>
 </p>
 
-<p align="center">
-  <img src=".github/images/duobird.png" width="600" alt="DuoBird on a partially folded iPhone Duo in the simulator">
-</p>
+https://github.com/user-attachments/assets/ba07e5f0-ec81-4c65-9973-ee3b13ebfc84
 
 ## How to Play
 
