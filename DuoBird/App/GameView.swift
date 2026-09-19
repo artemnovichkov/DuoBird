@@ -71,7 +71,7 @@ private struct Overlay: View {
             }
         }
         .frame(maxWidth: .infinity)
-        .overlay(alignment: .bottomLeading) {
+        .overlay(alignment: .bottomTrailing) {
             if let hinge {
                 Label(hinge.angle.degrees.formatted(.number.precision(.fractionLength(0))) + "°", systemImage: "book")
                     .font(.headline.monospacedDigit())
